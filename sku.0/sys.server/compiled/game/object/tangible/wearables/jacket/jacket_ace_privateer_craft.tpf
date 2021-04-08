@@ -1,0 +1,8 @@
+
+@base object/tangible/wearables/base/wearables_base.iff
+
+@class tangible_object_template 4
+
+@class object_template 10
+
+sharedTemplate = "object/tangible/wearables/jacket/shared_jacket_ace_privateer_craft.iff"

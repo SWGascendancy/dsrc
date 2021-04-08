@@ -1,0 +1,51 @@
+NAME	CATEGORY	AFFECTS	MAX_TIMES_APPLIED	COST	AFFECT_AMOUNT	REQUIRED_EXPERTISE
+s	s	s	i	i	i	s
+strength	attributes	strength_modified	5	1	20	
+constitution	attributes	constitution_modified	5	1	20	
+stamina	attributes	stamina_modified	5	1	20	
+precision	attributes	precision_modified	5	1	20	
+agility	attributes	agility_modified	5	1	20	
+luck	attributes	luck_modified	5	1	20	
+camouflage	attributes	camouflage	5	1	20	
+evasion_value	attributes	combat_evasion_value	5	1	10	
+detect_hidden	attributes	detect_hidden	5	1	10	
+block_value	attributes	combat_block_value	5	1	10	
+kinetic	resistances	expertise_innate_protection_kinetic	5	1	250	
+energy	resistances	expertise_innate_protection_energy	5	1	250	
+damage_reduction	resistances	damage_decrease_percentage	2	5	1	
+dot_resist	resistances	dot_resist_all	2	5	1	
+culinary	trade	food_assembly	5	2	1	
+fashion	trade	clothing_assembly	5	2	1	
+droid_tech	trade	droid_assembly	5	2	1	
+munitions	trade	weapon_assembly	5	2	1	
+architecture	trade	structure_assembly	5	2	1	
+chassis_assembly	trade	chassis_assembly	5	2	1	
+engine_assembly	trade	engine_assembly	5	2	1	
+booster_assembly	trade	booster_assembly	5	2	1	
+power_systems	trade	power_systems	5	2	1	
+weapon_systems	trade	weapon_systems	5	2	1	
+shields_assembly	trade	shields_assembly	5	2	1	
+advanced_assembly	trade	advanced_assembly	5	2	1	
+security	trade	armor_assembly	5	2	1	
+crafting_success	trade	crafting_critical_success_bonus	2	5	1	
+hand_sampling	trade	expertise_resource_sampling_increase	5	2	2	harvest_faire
+creature	trade	creature_harvesting	5	2	3	
+creature_mutation	trade	bm_mutation_chance_increase	1	10	5	
+critical_hit	combat	expertise_critical_niche_all	1	5	3	
+critical_hit_defense	combat	expertise_critical_hit_reduction	1	5	3	
+dodge	combat	expertise_glancing_blow_all	1	5	3	
+action_cost_reduction	combat	expertise_action_all	1	5	5	
+block_chance	combat	expertise_block_chance	1	10	1	
+evasion_chance	combat	expertise_evasion_chance	1	5	1	
+parry	combat	expertise_parry	1	10	1	
+strikethrough_chance	combat	expertise_strikethrough_chance	1	5	3	
+speed	combat	expertise_dodge	1	5	1	
+damage	combat	expertise_damage_all	1	10	1	
+healing	misc	expertise_dot_absorption_all	5	2	6	holism
+healer	misc	expertise_healing_all	5	2	3	holism
+reactive_go_with_the_flow	misc	movement_speed	5	2	5	go_with_the_flow
+reactive_second_chance	misc	reactive_second_chance	4	2	2	second_chance
+harvest_faire	misc	expertise_harvester_collection_increase	5	2	3	harvest_faire
+flush_with_success	misc	flush_with_success	5	2	3	flush_with_success
+forage	misc	forage_bonus_mod	5	2	3	
+treasure_forage	misc	treasure_forage_mod	5	2	2	

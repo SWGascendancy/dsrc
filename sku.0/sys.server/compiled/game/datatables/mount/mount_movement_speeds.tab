@@ -1,0 +1,69 @@
+skeleton	fltBaseWalkSpeed	fltBaseRunSpeed	fltBurstRunSpeed	fltBurstRunDuration	fltBurstRunRecycleTime
+s	f[0]	f[0]	f[0]	f[0]	f[0]
+astromech					
+atat					
+bat					
+bird_eagle					
+bird_finch					
+bird_giant	4	16	20	300	780
+bird_turkey					
+camel	3	15.5	18.5	300	780
+canine					
+cat_domestic					
+cat_predatory					
+chevin					
+cll8					
+colo_claw_fish					
+dewback	3.5	15.5	19	180	660
+dinosaurid					
+drall					
+droid_2					
+droideka					
+dz70					
+eg6					
+elephant	3.9	15	18.5	180	680
+ewok					
+fambaa					
+fish_basic					
+frog					
+giraffe					
+goat					
+gorax					
+griffon					
+horse	4	16	19	180	680
+human					
+hutt					
+insect_basic					
+insect_mantis	4	16	19	180	680
+insect_moth					
+ito					
+jellyfish					
+kaadu	3.25	15.5	18.5	180	600
+lin_demolition					
+lizard_basic					
+lizard_giant					
+mouse_droid					
+mynock					
+opee_sea_killer					
+orb					
+pig					
+probe_droid					
+protocol_droid					
+rabbit					
+rancor	3.5	15.5	18	180	680
+rat					
+robo_bartender					
+sarlacc					
+selonian					
+simian_ape					
+simian_monkey					
+snake_basic					
+spider					
+spider_droid					
+tauntaun	3.7	13.8	17	180	600
+tt8l					
+tt8l_y7					
+tulgah					
+wed_treadwell					
+whiphid					
+varactyl	4.5	16	20	180	600

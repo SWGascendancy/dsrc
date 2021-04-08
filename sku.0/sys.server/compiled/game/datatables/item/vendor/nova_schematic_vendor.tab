@@ -1,0 +1,24 @@
+item	cash	resourceAmount	class	script	note
+s[none]	i[0]	i[1000]	i[0]	s	c
+item_reward_nova_engine_schematic_01_01		550			
+item_reward_nova_wpn_schematic_01_01		550			
+item_tcg_loot_reward_series1_arc170_flightsuit		200			
+item_tcg_loot_reward_series1_orange_flightsuit		200			
+item_tcg_loot_reward_series1_black_flightsuit		200			
+item_tcg_loot_reward_series1_bas_relief		150			
+item_tcg_loot_reward_series5_tiefighter_chair	250000	200			
+item_painting_corl_02	25000				
+object/tangible/painting/painting_trandoshan_m_01.iff	25000				
+object/tangible/painting/painting_m_01.iff	25000				
+object/tangible/veteran_reward/one_year_anniversary/painting_07.iff	25000				
+object/tangible/veteran_reward/one_year_anniversary/painting_04.iff	25000				
+object/tangible/painting/painting_schematic_weapon.iff	25000				
+object/tangible/painting/painting_droid_bright.iff	25000				
+object/tangible/veteran_reward/one_year_anniversary/painting_02.iff	25000				
+object/tangible/painting/painting_vader_victory.iff	25000				
+object/tangible/painting/painting_rodian_m.iff	25000				
+object/tangible/painting/painting_schematic_weapon_s03.iff	25000				
+item_housepack_painting_rebel_01_01	25000				
+object/tangible/painting/painting_zabrak_f.iff	25000				
+object/tangible/painting/painting_zabrak_m.iff	25000				
+item_ascd_token_01		100			

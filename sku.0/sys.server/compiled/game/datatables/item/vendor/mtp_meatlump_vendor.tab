@@ -1,0 +1,25 @@
+item	cash	resourceAmount	class	script	note
+s[none]	i[0]	i[0]	i[0]	s	c
+item_meatlump_camp_light_schematic_02_01		60			
+item_meatlump_camp_light_schematic_02_02		60			
+item_meatlump_grill_schematic_02_01		70			
+item_meatlump_grill_schematic_02_02		70			
+item_meatlump_pallet_schematic_02_01		20			
+meatlump_officer_doll_leg_l_02_01		30			
+meatlump_king_stuffing_02_01		30			
+meatlump_newspaper_02_08		30			
+meatlump_hench_stuffing_02_01		10			
+meatlump_uniform_piece_02_01		10			
+item_mtp_meatlump_king_reward		100			
+mtp_meatlump_graffiti_reward_02_01		30			
+mtp_meatlump_graffiti_reward_02_02		30			
+mtp_meatlump_graffiti_reward_02_03		30			
+mtp_meatlump_graffiti_reward_02_04		30			
+mtp_meatlump_graffiti_reward_02_05		30			
+mtp_meatlump_graffiti_reward_02_06		30			
+mtp_meatlump_graffiti_reward_02_07		30			
+item_publish_gift_38_04_01		50			
+item_tcg_loot_reward_series1_greeter_meatlump		100			
+item_tcg_loot_reward_series1_vendor_meatlump		150			
+item_tcg_loot_reward_series1_tusken_talisman		200			
+item_ascd_token_01		10			

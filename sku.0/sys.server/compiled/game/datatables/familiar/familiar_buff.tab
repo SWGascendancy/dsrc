@@ -1,0 +1,15 @@
+familiar_name	buff_name	level_up
+s	s	i[1]
+vr_mouse_droid	vr_familiar_health_	1
+vr_bearded_jax	buff_bearded_jax	0
+vr_mynock	vr_familiar_defense_	1
+vr_nightspider	buff_nightspider	0
+vr_gacklebat	vr_familiar_accuracy_	1
+loveday_ewok_cupid_familiar	loveday_ewok_familiar	0
+gcw_atxt_familiar	walker_familiar_buff	0
+gcw_atst_familiar	walker_familiar_buff	0
+tcg_tie_fighter_familiar	tie_fighter_familiar_buff	0
+tcg_xwing_fighter_familiar	xwing_fighter_familiar_buff	0
+tcg_hutt_fighter_familiar	hutt_fighter_familiar_buff	0
+item_tcg_loot_reward_series8_snow_speeder_familiar	snowspeeder_familiar_buff	0
+familiar_gungan_male_01	jarjar_binks_familiar	0

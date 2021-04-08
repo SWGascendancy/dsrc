@@ -1,0 +1,48 @@
+@base object/draft_schematic/structure/base_structure_schematic.iff
+@class draft_schematic_object_template 7
+//
+// skills used: inventor/basic general component design
+//
+
+itemsPerContainer = 1
+craftedObjectTemplate = "object/tangible/furniture/decorative/shared_wod_tower.iff"
+
+slots = [
+	[
+	optional=false,
+	name = "community_crafting_n" "frame_and_walls",
+	options = [
+		[ingredientType=IT_schematic, ingredients = [[name="community_crafting_n" "frame_and_walls", ingredient="object/draft_schematic/community_crafting/component/reinforced_wall_module.iff", count=1]], complexity = 0, skillCommand = "unskilled"]],
+	optionalSkillCommand = "",
+	complexity = 0,
+	appearance = "" ],
+	[
+	optional = false,
+	name = "craft_furniture_ingredients_n" "load_bearing_frame_and_reinforcement",
+	options = [
+		[ingredientType=IT_resourceClass, ingredients = [[name="craft_furniture_ingredients_n" "load_bearing_frame_and_reinforcement", ingredient="steel", count=225]], complexity = 0, skillCommand = "unskilled"]],
+	optionalSkillCommand = "",
+	complexity = 0,
+	appearance = "" ],
+	[
+	optional=false,
+	name = "craft_furniture_ingredients_n" "roof",
+	options = [
+		[ingredientType=IT_resourceClass, ingredients = [[name="craft_furniture_ingredients_n" "roof", ingredient="metal", count=150]], complexity = 0, skillCommand = "unskilled"]],
+	optionalSkillCommand = "",
+	complexity = 0,
+	appearance = "" ]]
+skillCommands = ["unskilled"]
+destroyIngredients = true
+manufactureScripts = [ "systems.crafting.clothing.skill.crafting_clothing_artisan_novice" ]
+
+
+@class intangible_object_template 0
+
+
+@class object_template 5
+
+
+complexity = 25
+sharedTemplate = "object/draft_schematic/furniture/city/shared_wod_tower.iff"
+volume = 12

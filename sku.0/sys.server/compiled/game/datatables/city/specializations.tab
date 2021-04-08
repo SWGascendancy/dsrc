@@ -1,0 +1,17 @@
+SPECIALIZATION	BIT	COST
+s	i	i
+null	0	0
+city_spec_sample_rich	256	70000
+city_spec_farming	512	100000
+city_spec_industry	1024	50000
+city_spec_research	2048	125000
+city_spec_cloning	4096	80000
+city_spec_missions	8192	80000
+city_spec_entertainer	16384	80000
+city_spec_doctor	32768	80000
+city_spec_stronghold	65536	150000
+city_spec_master_manufacturing	131072	200000
+city_spec_master_healing	262144	175000
+city_spec_decor_increase	524288	100000
+city_spec_storyteller	1048576	200000
+city_spec_bm_incubator	2097152	200000

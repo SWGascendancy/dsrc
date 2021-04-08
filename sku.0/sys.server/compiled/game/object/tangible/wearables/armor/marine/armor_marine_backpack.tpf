@@ -1,0 +1,15 @@
+
+@base object/tangible/wearables/base/base_backpack.iff
+
+@class tangible_object_template 3
+
+armor = ""
+
+@class object_template 2
+
+sharedTemplate = "object/tangible/wearables/armor/marine/shared_armor_marine_backpack.iff"
+
+objvars = +["skillmod.bonus.strength_modified" = 40, "skillmod.bonus.constitution_modified" = 25, 
+"skillmod.bonus.stamina_modified" = 10, "skillmod.bonus.agility_modified" = 25, 
+"skillmod.bonus.luck_modified" = 10, "skillmod.bonus.precision_modified" = 40, 
+"skillmod.bonus.camouflage" = 25]

@@ -1,0 +1,14 @@
+
+@base object/tangible/wearables/backpack/base/backpack_base.iff
+
+@class tangible_object_template 0
+
+
+@class object_template 2
+
+sharedTemplate = "object/tangible/tcg/series8/shared_wearable_backpack_yoda.iff"
+objvars = +["skillmod.bonus.strength_modified" = 40, "skillmod.bonus.constitution_modified" = 40, 
+"skillmod.bonus.stamina_modified" = 10, "skillmod.bonus.agility_modified" = 10, 
+"skillmod.bonus.luck_modified" = 25, "skillmod.bonus.precision_modified" = 25, 
+"skillmod.bonus.camouflage" = 25]
+

@@ -1,0 +1,8 @@
+foraged_object	forageroll_start	forageroll_end	buff_modifies	comments
+s	i[0]	i[0]	s[bait]	c
+enzyme	1	45		
+component	46	56		
+worm	57	67		
+bait	68	78		
+nothing	79	97		
+treasure	98	100		

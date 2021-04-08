@@ -1,0 +1,53 @@
+item	cash	token0	token1	token2	token3	token4	token5	token6	token7	token8	token9	token10	token11	token12	token13	token14	token15	token16	class	script	note
+s[none]	i[0]	i[0]	i[0]	i[0]	i[0]	i[0]	i[0]	i[0]	i[0]	i[0]	i[0]	i[0]	i[0]	i[0]	i[0]	i[0]	i[0]	i[0]	i[0]	s	c
+item_pgc_booster_pack																	40		0		"See library.utils for the int value of the classes. 0 is ""all"" but will only show if there are no items for the opener's class."
+item_pgc_booster_pack_goto																	40				
+item_pgc_booster_pack_comm																	40				
+item_deed_landspeeder_usv5_s02																		24			"So in the case of this table only traders will see the ""all"" items."
+item_deed_podracer_anakin																		30			
+item_pgc_starship_storage_device_01																		16			
+item_pgc_sandcrawler_house_deed																		48			
+item_pgc_monitorscreen																	220				
+item_pgc_monitorscreen_sm																	170				
+item_pgc_glass_pane_01																	160				
+item_pgc_glass_pane_02																	160				
+item_pgc_jabba_chandelier																	180				
+item_pgc_jabba_drapes																	200				
+item_pgc_jabba_fancyrug																	180				
+item_pgc_jabba_gargoyle																	180				
+item_pgc_jabba_generator																	200				
+item_pgc_jabba_table																	225				
+item_pgc_jabba_tassels																	280				
+item_pgc_jabba_windchime																	270				
+item_pgc_fireplace																	250				
+item_pgc_decal_pgc_s01																	200				
+item_pgc_decal_pgc_s02																	200				
+item_pgc_decal_pgc_s03																	200				
+item_pgc_decal_pgc_s04																	200				
+item_pgc_decal_pgc_s05																	200				
+item_pgc_decal_pgc_s06																	200				
+item_pgc_planet_hologram_corellia																	180				
+item_pgc_planet_hologram_dantooine																	180				
+item_pgc_planet_hologram_dathomir																	180				
+item_pgc_planet_hologram_endor																	180				
+item_pgc_planet_hologram_lok																	180				
+item_pgc_planet_hologram_naboo																	180				
+item_pgc_planet_hologram_rori																	180				
+item_pgc_planet_hologram_talus																	180				
+item_pgc_planet_hologram_tatooine																	180				
+item_pgc_planet_hologram_yavin4																	180				
+item_pgc_planet_hologram_corellia_02																	160				
+item_pgc_planet_hologram_dantooine_02																	160				
+item_pgc_planet_hologram_dathomir_02																	160				
+item_pgc_planet_hologram_endor_02																	160				
+item_pgc_planet_hologram_lok_02																	160				
+item_pgc_planet_hologram_naboo_02																	160				
+item_pgc_planet_hologram_rori_02																	160				
+item_pgc_planet_hologram_talus_02																	160				
+item_pgc_planet_hologram_tatooine_02																	160				
+item_pgc_planet_hologram_yavin4_02																	160				
+item_pgc_token_03																	2000				
+item_costume_chiss_01																	120				
+item_costume_exar_kun_cultist																	120				
+item_costume_kit	900																				
+item_ascd_token_01																		5			

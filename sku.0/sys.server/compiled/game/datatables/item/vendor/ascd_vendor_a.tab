@@ -1,0 +1,56 @@
+item	cash	token28	limit
+s[none]	i[0]	i[0]	i[0]
+item_ascd_token_01	200000		
+item_publish_gift_update_14_comlink			
+weapon_publish_gift_27_04_01			
+item_publish_gift_35_04_01			
+item_publish_gift_36_04_01			
+item_publish_gift_37_04_01			
+item_lifeday_09_ornament			
+item_publish_gift_update_15			
+item_publish_gift_update_16			
+item_publish_gift_27_04_01		1	
+item_publish_gift_33_camp_01_01		25	
+publish_gift_chapter_11_snow_machine_02_01		50	
+item_hologram_aotc_cybernetic_arm		75	
+item_publish_gift_update_14_statuette		40	
+col_mail_opt_in_1_01	1000000	10	
+col_mail_opt_in_1_02	1250000	10	
+col_mail_opt_in_1_03	1500000	10	
+col_mail_opt_in_2_01	1750000	10	
+col_mail_opt_in_2_02	2000000	10	
+col_mail_opt_in_2_03	2250000	10	
+col_mail_opt_in_3_01	2500000	10	
+col_mail_opt_in_3_02	2750000	10	
+col_mail_opt_in_3_03	3000000	10	
+col_mail_opt_in_4_01	3250000	10	
+col_mail_opt_in_4_02	3500000	10	
+item_painting_corl_02	250000		
+item_painting_rodian_f_ad_01	300000		
+col_buddy_token	1000000		
+col_buddy_02_token	1000000		
+item_tcg_loot_reward_series3_house_sign	250000	25	
+item_tcg_loot_reward_seres5_house_sign	500000	25	
+item_tcg_loot_reward_series3_jedi_meditation_room_deed	50000000		
+item_tcg_loot_reward_series7_deed_vip_bunker	50000000		
+object/tangible/deed/player_house_deed/mustafar_house_lg.iff	50000000		
+object/tangible/painting/painting_han_wanted.iff	100000	2	
+object/tangible/painting/painting_leia_wanted.iff	100000	2	
+object/tangible/painting/painting_luke_wanted.iff	100000	2	
+object/tangible/painting/painting_teras_kasi.iff	100000	2	
+object/tangible/painting/painting_teras_kasi_2.iff	100000	2	
+item_tcg_loot_reward_series1_princess_leia_statuette		100	
+item_tcg_loot_reward_series1_darth_vader_statuette		100	
+item_tcg_loot_reward_series4_han_solo_statuette_02_01		100	
+item_fannypack_04_03		5000	
+item_fannypack_04_04		5000	
+item_fannypack_04_05		5000	
+item_fannypack_04_06		5000	
+item_fannypack_04_11		5000	
+item_ascd_heal_01	100000		
+item_ascd_combat_01	100000		
+item_ascd_space_experimentation_01	50000		
+item_tcg_loot_reward_series4_balta_podracer_02_01		250	
+item_privateer_itv	100000		
+item_color_crystal_02_23		1000	
+item_tcg_loot_reward_series8_exogorth_gloves	10000000	500	
